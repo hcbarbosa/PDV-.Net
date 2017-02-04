@@ -1,0 +1,22 @@
+d:\documents\visual studio 2012\Projects\Pdv\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+d:\documents\visual studio 2012\Projects\Pdv\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+d:\documents\visual studio 2012\Projects\Pdv\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+d:\documents\visual studio 2012\Projects\Pdv\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+d:\documents\visual studio 2012\Projects\Pdv\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\Pdv\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+d:\documents\visual studio 2012\Projects\Pdv\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+F:\Documents\Visual Studio 2012\Projects\Pdv\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+F:\Documents\Visual Studio 2012\Projects\Pdv\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+F:\Documents\Visual Studio 2012\Projects\Pdv\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+F:\Documents\Visual Studio 2012\Projects\Pdv\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+F:\Documents\Visual Studio 2012\Projects\Pdv\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2012\Projects\Pdv\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+F:\Documents\Visual Studio 2012\Projects\Pdv\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb
+D:\Documents\GitHub\PDV .Net\Pdv\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll.config
+D:\Documents\GitHub\PDV .Net\Pdv\ProjetoFrontEnd\bin\ProjetoFrontEnd.dll
+D:\Documents\GitHub\PDV .Net\Pdv\ProjetoFrontEnd\bin\ProjetoFrontEnd.pdb
+D:\Documents\GitHub\PDV .Net\Pdv\ProjetoFrontEnd\bin\ProjetoBackEnd.dll
+D:\Documents\GitHub\PDV .Net\Pdv\ProjetoFrontEnd\bin\ProjetoBackEnd.pdb
+D:\Documents\GitHub\PDV .Net\Pdv\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\PDV .Net\Pdv\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.dll
+D:\Documents\GitHub\PDV .Net\Pdv\ProjetoFrontEnd\obj\Debug\ProjetoFrontEnd.pdb

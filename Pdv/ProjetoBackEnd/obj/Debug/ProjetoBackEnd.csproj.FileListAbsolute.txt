@@ -1,0 +1,15 @@
+d:\documents\visual studio 2012\Projects\Pdv\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+d:\documents\visual studio 2012\Projects\Pdv\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+d:\documents\visual studio 2012\Projects\Pdv\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\Pdv\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+d:\documents\visual studio 2012\Projects\Pdv\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+F:\Documents\Visual Studio 2012\Projects\Pdv\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2012\Projects\Pdv\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+F:\Documents\Visual Studio 2012\Projects\Pdv\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+F:\Documents\Visual Studio 2012\Projects\Pdv\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+F:\Documents\Visual Studio 2012\Projects\Pdv\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
+D:\Documents\GitHub\PDV .Net\Pdv\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.dll
+D:\Documents\GitHub\PDV .Net\Pdv\ProjetoBackEnd\bin\Debug\ProjetoBackEnd.pdb
+D:\Documents\GitHub\PDV .Net\Pdv\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\PDV .Net\Pdv\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.dll
+D:\Documents\GitHub\PDV .Net\Pdv\ProjetoBackEnd\obj\Debug\ProjetoBackEnd.pdb
